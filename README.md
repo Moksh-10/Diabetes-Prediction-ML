@@ -19,7 +19,7 @@ The model architecture consists of a neural network with:
 
 Usage:
 1.Clone the repository:
--> git clone https://github.com/your-username/Diabetes-Prediction-ML.git
+-> git clone https://github.com/Moksh-10/Diabetes-Prediction-ML.git
 2.Install dependencies:
 -> pip install -r diabetes_requirements.txt
 3.Run the model:
